@@ -4,7 +4,9 @@ st is a simple terminal emulator for X which sucks less.
 
 Patches
 -------
-./patches/
+- https://st.suckless.org/patches/alpha/
+- https://st.suckless.org/patches/colorschemes/
+- https://st.suckless.org/patches/scrollback/
 
 Requirements
 ------------
